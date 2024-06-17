@@ -1,0 +1,9 @@
+# Ignore all .xes files
+*.xes
+
+# Ignore specific folders
+/models/
+
+# Other files to ignore
+*.log
+*.tmp
